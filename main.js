@@ -1,3 +1,3 @@
-import count from './counter.js'
+let count = require('./counter.js');
 
-console.log(count(3))
+console.log(count(3));
