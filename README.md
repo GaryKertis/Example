@@ -1,8 +1,14 @@
-I'm changing this line.
+// This app will be a simple node counter.
 
-I'm adding a word here.
+// Antonio will write a function called 'counter'
+// And it will look like this:
+// let counter = 0;
+// export default const count = (n) => n + count
+// in a file called counter.js
 
-GIT is the program we run locally on our computers.
+// Jan will write some code like this:
+// import count from './counter.js';
+// console.log(count(3));
+// in a file called main.js
 
-GITHUB is the website we are using to store our code.
-This is a remote change
+// Isaac will be responsible for reviewing and approving.
