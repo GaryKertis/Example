@@ -1,2 +1,4 @@
-let counter = 0
-export default const count = (n) => n + count
+let counter = 0;
+const count = (n) => n + counter;
+
+module.exports = count;
