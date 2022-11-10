@@ -1,3 +1,3 @@
-let foo = 'bar';
+let foo = "bar";
 
 console.log(foo);
